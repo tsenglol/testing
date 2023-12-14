@@ -1,0 +1,30 @@
+{
+  "title": "test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1702536710",
+      "groups": {
+        "": [
+          "https://s2.ihlv1.xyz/images3/20231214/9d7bb3c20be94027419dd27988602a7701.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/02b7bf27eb830f76ad1255c12480ced502.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/c48d83b6ae8fdcaf66ee4dc6547c3f5a03.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/4a289dd61cb3405ef81109a840693fe104.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/8d183496fcfe02551d7139c73a50405605.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/7b7aee7dcb4e6f892b38057fae3fe80706.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/5c8e7bb6b6c7a0658ebd393e5ff391a207.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/f4ee17fc8000cd6f18cd937169d760b308.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/2fc436f2dda12637f2f591ab844646d709.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/c8998817101373245b7ec44f33efe9fd10.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/7ba2a4f82d4870ac509fe684b295089211.jpg",
+          "https://s2.ihlv1.xyz/images3/20231214/bc4032a7408df02e33d15203ad61d91812.jpg"
+        ]
+      }
+    }
+  }
+}
